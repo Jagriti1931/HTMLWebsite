@@ -1,4 +1,17 @@
 h1 {
     padding: 2rem;
+    padding-bottom: 1rem;
     text-align: center;
+}
+
+h2 {
+    padding: 1rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+}
+
+p {
+    padding: 1rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
 }
